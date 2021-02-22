@@ -156,6 +156,6 @@ footer{
   color: var(--second-color);
 }
 .footer-links:hover,
-..footer-links:focus{
+.footer-links:focus{
   color:var(--hover-color)
 }
